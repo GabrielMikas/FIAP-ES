@@ -135,3 +135,7 @@ Ao longo dessa evolução, surgiram quatro conceitos BASICOS que são utilizados
 >
 >Segue sumário das caracteristicas de desenvolvimento ágil:<br>
 ![Tabela de Gerenciamento Agil](/SDTE/tabelaGerenAgil.jpg)
+***
+***Comparação entre as vertentes***
+>Segue tabela de comparação entre as vertentes:<br>
+![Tabela de Comparações](/SDTE/tabelaCompara%C3%A7%C3%A3o.jpg)
