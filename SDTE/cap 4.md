@@ -113,4 +113,15 @@ Ao longo dessa evolução, surgiram quatro conceitos BASICOS que são utilizados
 ***
 ***Gestão de projetos com SCRUM***
 >SCRUM é um dos framework mais utilizados para projetos ageis. SCRUM funciona como a linha de montagem de um carro: componentes são adicionados incrementalmente e iterativamente até que se alcance o objetivo final.<br> A diferença se da em que na adaptação realizada para o mercado de software, o cliente entra como parte da equipe, dando aceites e demonstrando suas demandas.<br>Há também uma hierarquia clara de funções que devem ser respeitadas:
->><strong>Scrum Master(SM)</strong>: Exerce função de gerente de projetos, mas também funciona como a ponte entre a equipe e o cliente. Serve para garantir o foco da equipe durante sprints e enforçar o uso correto das regras de SCRUM<br><strong>Product Owner(PO)</strong>: É o representante do cliente no projeto.<br><strong>Time</strong>: São as pessoas que realizam a construção do software. Deve ser uma equipe multidisciplinar e autogerenciada. São eles que definem as metas do sprint e prazos
+>><strong>Scrum Master(SM)</strong>: Exerce função de gerente de projetos, mas também funciona como a ponte entre a equipe e o cliente. Serve para garantir o foco da equipe durante sprints e enforçar o uso correto das regras de SCRUM<br><strong>Product Owner(PO)</strong>: É o representante do cliente no projeto.<br><strong>Time</strong>: São as pessoas que realizam a construção do software. Deve ser uma equipe multidisciplinar e autogerenciada. São eles que definem as metas do sprint e prazos<br>
+>
+>São caracteristicas do SCRUM:
+>>Product Backlog<br>
+>>Reunião de Planejamento<br>
+>>Product Backlog priorizado<br>
+>>Sprint Backlog<br>
+>>Sprint<br>
+>>Reunião diaria<br>
+>>Reunião de revisão<br>
+>>Reunião de retrospectiva<br>
+>>Versão<br>
