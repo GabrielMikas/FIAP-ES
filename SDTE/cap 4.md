@@ -77,4 +77,7 @@ TODOS OS SPONSORS SÃO STAKEHOLDERS
 
 
 ***Ativos de processos organizacionais***
->São quaisquer
+>São quaisquer recursos que um projeto dispõe(conhecimentos, tecnicas, ferramentas e habilidades) para a sua realização de forma a atender os requisito pré estabelecidos(prazo, orçamento).
+>Um processo é um conjunto de atividades que, quando cumpridas na ordem apropriada, atingem um objetivo predefinido.
+***
+***Boas práticas de gerenciamento de projetos***
