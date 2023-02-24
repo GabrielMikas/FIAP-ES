@@ -76,3 +76,18 @@ TODOS OS SPONSORS SÃO STAKEHOLDERS
 >Um processo é um conjunto de atividades que, quando cumpridas na ordem apropriada, atingem um objetivo predefinido.
 ***
 ***Boas práticas de gerenciamento de projetos***
+>Iniciação
+    Compreendem os processos que devem ser executados na definição de um novo projeto
+>Planejamento
+    Agrumpam os processos necessario para definir o escopo, refinar e determinar as ações necessarias
+>Execução
+    São os processos necessarios para executar o trabalho definido e satisfazer as demandas propostas
+>Monitoramentos e controle
+    São os processos exigidos para acompanhar e controlar o progresso e o desempenho do projeto
+>Encerramento
+    Compreendem os processos para a finalização de uma fase ou do projeto como um todo
+
+>Os processos, apesar de distintos, raramento ocorrem isoladamente. Eles interagem entre si durante as varias fases de um projeto, conforme o que produzem. São todas elas atividades sobrepostas que ocorrem ao longo de todo o projeto
+***
+***CICLO PDCA: PLAN, DO, CHECK, ACT***
+    
