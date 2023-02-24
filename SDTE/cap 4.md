@@ -132,5 +132,6 @@ Ao longo dessa evolução, surgiram quatro conceitos BASICOS que são utilizados
 >Gerenciamento agil é fortemente criticado pela sua informalidade inerente.
 >
 >No fim das contas cada um acha que ta certo e tudo depende do problema que vai ser encontrado e qual execução mais se adequa.<br>
->Segue sumário das caracteristicas de desenvolvimento ágil<br>
+>
+>Segue sumário das caracteristicas de desenvolvimento ágil:<br>
 ![Tabela de Gerenciamento Agil](/SDTE/tabelaGerenAgil.jpg)
