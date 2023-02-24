@@ -90,4 +90,11 @@ TODOS OS SPONSORS SÃO STAKEHOLDERS
 >Os processos, apesar de distintos, raramento ocorrem isoladamente. Eles interagem entre si durante as varias fases de um projeto, conforme o que produzem. São todas elas atividades sobrepostas que ocorrem ao longo de todo o projeto
 ***
 ***CICLO PDCA: PLAN, DO, CHECK, ACT***
-    
+***
+***Conceitos Ágeis MODERNOS***
+>Alguns conceitos ágeis que se solidificaram são: Entregas parciais, time auto organizado, aceitação de mudança
+Ao longo dessa evolução, surgiram quatro conceitos BASICOS que são utilizados nas maiores empresas tec do mundo, são eles:
+>Torne as pessoas incriveis: Todos os envolvidos no projetos tem expectativas, as pessoas envolvidas devem ser parte da solução e criadoras do projeto.
+>Segurança como pré requisito: Deve-se prezar pela construção de um produto seguro e que passe isso ao usuario.
+>Erre rápido e aprenda rápido: Para aprender é necessario errar e não se deve ter medo disso, mas deve-se sempre haver um aprendizado atrelado.
+>Entregue valor constantemente: Entregas PARCIAIS que tenham um valor associado. Deve ser possivel identificar a entrega parcial como parte de um todo, mas que ainda assim faça sentido sozinha.
