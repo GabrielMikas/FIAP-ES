@@ -98,13 +98,13 @@ TODOS OS SPONSORS SÃO STAKEHOLDERS
 ***Conceitos Ágeis MODERNOS***
 >Alguns conceitos ágeis que se solidificaram são: Entregas parciais, time auto organizado, aceitação de mudança.<br>
 Ao longo dessa evolução, surgiram quatro conceitos BASICOS que são utilizados nas maiores empresas tec do mundo, são eles:<br>
->>Torne as pessoas incriveis: Todos os envolvidos no projetos tem expectativas, as pessoas envolvidas devem ser parte da solução e criadoras do projeto.<br>
+>><strong>Torne as pessoas incriveis</strong>: Todos os envolvidos no projetos tem expectativas, as pessoas envolvidas devem ser parte da solução e criadoras do projeto.<br>
 >
->>Segurança como pré requisito: Deve-se prezar pela construção de um produto seguro e que passe isso ao usuario.<br>
+>><strong>Segurança como pré requisito</strong>: Deve-se prezar pela construção de um produto seguro e que passe isso ao usuario.<br>
 >
->>Erre rápido e aprenda rápido: Para aprender é necessario errar e não se deve ter medo disso, mas deve-se sempre haver um aprendizado atrelado.<br>
+>><strong>Erre rápido e aprenda rápido</strong>: Para aprender é necessario errar e não se deve ter medo disso, mas deve-se sempre haver um aprendizado atrelado.<br>
 >
->>Entregue valor constantemente: Entregas PARCIAIS que tenham um valor associado. Deve ser possivel identificar a entrega parcial como parte de um todo, mas que ainda assim faça sentido sozinha.<br>
+>><strong>Entregue valor constantemente</strong>: Entregas PARCIAIS que tenham um valor associado. Deve ser possivel identificar a entrega parcial como parte de um todo, mas que ainda assim faça sentido sozinha.<br>
 ***
 ***Processos ageis de desenvolvimento de Software***
 >Os requisitos são instaveis por natureza e, portanto, deve-se ser capaz de se adequar à medida que os requisitos tecnicos são criados. Isso se da pela criação <strong>INCREMENTAL</strong> do software
