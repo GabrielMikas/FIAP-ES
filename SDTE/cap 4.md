@@ -54,8 +54,8 @@ TODOS OS SPONSORS SÃO STAKEHOLDERS
 
 
 ***Gerente de Projetos x Líder tecnico***
-Há a tendencia da promoção do Líder tecnico a Gerente de projetos, porém, não é uma escolha vantajosa pois além de ser um "desperdicio" de recursos tecnicos, o Gerente de Projetos necessita de habilidades diferentes,
-sendo algumas delas:
+>Há a tendencia da promoção do Líder tecnico a Gerente de projetos, porém, não é uma escolha vantajosa pois além de ser um "desperdicio" de recursos tecnicos, o Gerente de Projetos necessita de habilidades diferentes,
+>sendo algumas delas:
     -Liderança
         O Gerente de projetos precisa em momentos ser um Gerente(concentração nos resultados e viabilização de projetos), porém, precisa também em dados momentos
         ser um líder(Expressamento de visão, buscar consenso de metodos e estratégias)
@@ -74,3 +74,7 @@ sendo algumas delas:
         de diversas opiniões. Deve ser capaz de reconhecer sintomas de problemas internos e realizar as remediações necessarias
     -Formação e motivação de equipes:
         É o gerante quem forma as equipes e dita qual será o clima durante a realização de um dado projeto                    
+
+
+***Ativos de processos organizacionais***
+>São quaisquer
