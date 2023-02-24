@@ -116,12 +116,12 @@ Ao longo dessa evolução, surgiram quatro conceitos BASICOS que são utilizados
 >><strong>Scrum Master(SM)</strong>: Exerce função de gerente de projetos, mas também funciona como a ponte entre a equipe e o cliente. Serve para garantir o foco da equipe durante sprints e enforçar o uso correto das regras de SCRUM<br><strong>Product Owner(PO)</strong>: É o representante do cliente no projeto.<br><strong>Time</strong>: São as pessoas que realizam a construção do software. Deve ser uma equipe multidisciplinar e autogerenciada. São eles que definem as metas do sprint e prazos<br>
 >
 >São caracteristicas do SCRUM:
->>Product Backlog<br>
->>Reunião de Planejamento<br>
->>Product Backlog priorizado<br>
->>Sprint Backlog<br>
->>Sprint<br>
->>Reunião diaria<br>
->>Reunião de revisão<br>
->>Reunião de retrospectiva<br>
->>Versão<br>
+>><strong>Product Backlog</strong>: É um documento elaborado pelo PO que define o escopo inicial do projeto. Deve ser elaborado em formato de lista de necessidades funcionais e não funcionais tais como: requisitos; documentação; diagramas, requisitos tecnicos, etc... <br>Pode ser alterado conforme necessidade do PO<br>
+>><strong>Reunião de Planejamento</strong>:Reunião realizada antes de cada sprint, com o objetivo de priorizar as tarefas e estimar a duração do sprint. Todos os membros do projeto participam<br>
+>><strong>Product Backlog priorizado</strong>:É gerado baseado no product Backlog e é onde se define o que deve ser feito e em qual ordem.<br>Feito entre PO e SM<br>
+>><strong>Sprint Backlog</strong>: É onde se define quais funcionalidades farão parte do sprint. É uma analise conjunta da equipe e do PO para estimar os prazos de sprint e o que é necessario para construir o projeto<br>
+>><strong>Sprint</strong>: É a fase de implementação das funcionalidades previstas no Sprint Backlog. Dura de 2 a 4 semanas e não deve ser estendido de maneira alguma. Ao final deve ter sido concluido o projeto com qualidade.<br>
+>><strong>Reunião diaria: o SM junto do TIME realiza uma reunião de no max 15 minutos para briefing sobre a situação de forma a não encontrar culpados ou realizar acusações e sim focar na colaboração</strong>:<br>
+>><strong>Reunião de revisão</strong>: Ao final do sprint, é realizada a reunião para apresentar o resultado ao PO. É nesse momento em que se decide se o sprint foi ou não aceito e se adicionam coisas ao backlog<br>
+>><strong>Reunião de retrospectiva</strong>:É uma reunião de lições aprendidas do time, conduzido pelo SM de forma a melhorar o desempenho nos proxs sprints<br>
+>><strong>Versão</strong>: Ao fim do sprint, o time deve ter produzido parte do produto a ser entregue, testado, completo e pronto. O PO define se é uma versão standalone ou se aguarda mais sprints para formar uma versão.<br>
