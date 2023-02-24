@@ -56,16 +56,16 @@ TODOS OS SPONSORS SÃO STAKEHOLDERS
 ***Gerente de Projetos x Líder tecnico***
 >Há a tendencia da promoção do Líder tecnico a Gerente de projetos, porém, não é uma escolha vantajosa pois além de ser um "desperdicio" de recursos tecnicos, o Gerente de Projetos necessita de habilidades diferentes,
 >sendo algumas delas:
-    -Liderança
+    *Liderança
         O Gerente de projetos precisa em momentos ser um Gerente(concentração nos resultados e viabilização de projetos), porém, precisa também em dados momentos
         ser um líder(Expressamento de visão, buscar consenso de metodos e estratégias)
-    -Comunicação:
+    *Comunicação:
         Precisa ser um comunicador nato. O segredo para o sucesso de um projeto se encontra nas formas oral e escritas de comunicação, de modo que as informações pertinentes estejam sempre muito claras e bem demonstradas à equipe
-    -Elaboração de orçamentos:
+    *Elaboração de orçamentos:
         É necessario um conhecimento de finanças e contabilidade. O gerente deve ser capaz de realizar estimativas de gastos da equipe e controlar o orçamentos disponivel
-    -Planejamentos:
+    *Planejamentos:
         Umas das habilidades mais importante, afinal, o projeto necessita ser entregue em um dado prazo de acordo com um dado orçamentos e dadas especificações
-    -Aptidões organizacionais:
+    *Aptidões organizacionais:
         Organização é fundamental para que tudo ocorra conforme o planejados
     -Negociação e influencia:
         É necessaria uma capacidade de negociação e os contatos certos para tomadas de decisões dificeis e para garantir uma melhor alocação de recursos.
