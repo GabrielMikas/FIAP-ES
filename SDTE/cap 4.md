@@ -21,10 +21,7 @@
 
 
 O >PROJETO< gera um exemplar unico de um dado produto(PROTOTIPO), enquanto a >OPERAÇÃO< gera os produtos seguintes em esquema de linha de montagem 
-
-
-
-
+***
 ***Conceitos Importante***
 >Stakeholders:
     Partes interessadas, todos aqueles que são afetados pelo projeto(Proprietarios, investidores, governo, população local e assim vai...)
@@ -50,9 +47,7 @@ TODOS OS SPONSORS SÃO STAKEHOLDERS
         -Favorece a capacitação profissional dos recursos
         -Facilita a discrição e segurança(quando necessario)
         -Mobilidades(Projetos podem ser executados fora do ambiente da empresa)
-
-
-
+***
 ***Gerente de Projetos x Líder tecnico***
 >Há a tendencia da promoção do Líder tecnico a Gerente de projetos, porém, não é uma escolha vantajosa pois além de ser um "desperdicio" de recursos tecnicos, o Gerente de Projetos necessita de habilidades diferentes,
 >sendo algumas delas:
@@ -75,7 +70,7 @@ TODOS OS SPONSORS SÃO STAKEHOLDERS
     -Formação e motivação de equipes:
         É o gerante quem forma as equipes e dita qual será o clima durante a realização de um dado projeto                    
 
-
+***
 ***Ativos de processos organizacionais***
 >São quaisquer recursos que um projeto dispõe(conhecimentos, tecnicas, ferramentas e habilidades) para a sua realização de forma a atender os requisito pré estabelecidos(prazo, orçamento).
 >Um processo é um conjunto de atividades que, quando cumpridas na ordem apropriada, atingem um objetivo predefinido.
