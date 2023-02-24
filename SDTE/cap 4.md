@@ -125,3 +125,4 @@ Ao longo dessa evolução, surgiram quatro conceitos BASICOS que são utilizados
 >><strong>Reunião de revisão</strong>: Ao final do sprint, é realizada a reunião para apresentar o resultado ao PO. É nesse momento em que se decide se o sprint foi ou não aceito e se adicionam coisas ao backlog<br>
 >><strong>Reunião de retrospectiva</strong>:É uma reunião de lições aprendidas do time, conduzido pelo SM de forma a melhorar o desempenho nos proxs sprints<br>
 >><strong>Versão</strong>: Ao fim do sprint, o time deve ter produzido parte do produto a ser entregue, testado, completo e pronto. O PO define se é uma versão standalone ou se aguarda mais sprints para formar uma versão.<br>
+[!Tabela de Gerenciamento Agil](/SDTE/tabelaGerenAgil.jpg)
