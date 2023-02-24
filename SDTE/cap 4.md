@@ -105,3 +105,11 @@ Ao longo dessa evolução, surgiram quatro conceitos BASICOS que são utilizados
 >>Erre rápido e aprenda rápido: Para aprender é necessario errar e não se deve ter medo disso, mas deve-se sempre haver um aprendizado atrelado.<br>
 >
 >>Entregue valor constantemente: Entregas PARCIAIS que tenham um valor associado. Deve ser possivel identificar a entrega parcial como parte de um todo, mas que ainda assim faça sentido sozinha.<br>
+***
+***Processos ageis de desenvolvimento de Software***
+>Os requisitos são instaveis por natureza e, portanto, deve-se ser capaz de se adequar à medida que os requisitos tecnicos são criados. Isso se da pela criação <strong>INCREMENTAL</strong> do software
+>
+>Os dois metodos que mais se destacam no mercado são o <strong>XPM</strong>(Extreme Project Management) e o <strong>SCRUM</strong> vindo da industria automobilistica
+***
+***Gestão de projetos com SCRUM***
+>SCRUM é um dos framework mais utilizados para projetos ageis. SCRUM funciona como a linha de montagem de um carro: componentes são adicionados incrementalmente e iterativamente até que se alcance o objetivo final.<br> A diferença se da em que na adaptação realizada para o mercado de software, o cliente entra como parte da equipe, dando aceites e demonstrando suas demandas.
