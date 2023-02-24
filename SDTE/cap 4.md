@@ -78,12 +78,16 @@ TODOS OS SPONSORS SÃO STAKEHOLDERS
 ***Boas práticas de gerenciamento de projetos***
 >>Iniciação
     Compreendem os processos que devem ser executados na definição de um novo projeto
+>    
 >>Planejamento
     Agrumpam os processos necessario para definir o escopo, refinar e determinar as ações necessarias
->Execução
+>    
+>>Execução
     São os processos necessarios para executar o trabalho definido e satisfazer as demandas propostas
+>    
 >>Monitoramentos e controle
     São os processos exigidos para acompanhar e controlar o progresso e o desempenho do projeto
+>
 >>Encerramento 
     Compreendem os processos para a finalização de uma fase ou do projeto como um todo
 
