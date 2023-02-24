@@ -92,7 +92,7 @@ TODOS OS SPONSORS SÃO STAKEHOLDERS
 ***CICLO PDCA: PLAN, DO, CHECK, ACT***
 ***
 ***Conceitos Ágeis MODERNOS***
->Alguns conceitos ágeis que se solidificaram são: Entregas parciais, time auto organizado, aceitação de mudança
+>Alguns conceitos ágeis que se solidificaram são: Entregas parciais, time auto organizado, aceitação de mudança<br>
 Ao longo dessa evolução, surgiram quatro conceitos BASICOS que são utilizados nas maiores empresas tec do mundo, são eles:
 >Torne as pessoas incriveis: Todos os envolvidos no projetos tem expectativas, as pessoas envolvidas devem ser parte da solução e criadoras do projeto.
 >Segurança como pré requisito: Deve-se prezar pela construção de um produto seguro e que passe isso ao usuario.
