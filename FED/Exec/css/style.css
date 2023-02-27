@@ -1,0 +1,64 @@
+body{
+    width: 980px;
+    height: 400px;
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+/**Top banner styling**/
+#topBannerLogo{
+    width: 194px;
+    position: relative;
+    height: 146px;
+    top: 125px;
+    left: 8px;
+    background-image: url(../img/logo.fw.png);
+}
+#topMenu{
+width: 100%;
+height: 45px;
+background-color: #1b8e99;
+}
+#bottomMenu{
+width: 100%;
+height: 45px;
+background-color: #660000;
+}
+#droneBanner{
+    width: 100%;
+    height: 352px;
+    background-image: url(../img/banner.fw.png);
+}
+
+#topMenuList{
+    text-align: right;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+#topMenuList a{
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 45px;
+    right: 8px;
+
+}
+#topMenuList a:hover{
+    background-color: #92c9ce;
+}
+#bottomMenuList{
+    display: inline;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+#bottomMenuList a{
+    display: inline-block;
+    height: 45px;
+}
+#bottomMenuList a:hover{
+    background-color: white;
+    color: #660000;
+}
+/** end of Top banner styling**/
