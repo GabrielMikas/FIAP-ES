@@ -35,7 +35,7 @@ background-color: #660000;
 #topMenuList{
     display: flex;
     text-align: center;
-    align-content: center;
+
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
@@ -51,15 +51,19 @@ background-color: #660000;
     background-color: #92c9ce;
 }
 #bottomMenuList{
-    display: inline;
+    display: flex;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
 }
-#bottomMenuList a{
-    display: inline-block;
+#menuListItemB{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    width: 80px;
 }
-#bottomMenuList a:hover{
+#menuListItemB:hover{
     background-color: white;
     color: #660000;
 }
