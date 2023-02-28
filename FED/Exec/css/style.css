@@ -80,12 +80,13 @@ background-color: #660000;
     display: block;
     border: #1b8e99;
     border-style: solid;
-    height: auto;
-    width: 300px;
+    border-width: 1px;
+    height: 374px;
+    width: 298px;
    
 }
 #droneA-nome{
-    width: 298px;
+    width: 296px;
     margin-top: 1px;
     margin-left: 1px;
     margin-right: 1px;
@@ -99,18 +100,23 @@ background-color: #660000;
     height: 164px;
 }
 #droneA-descricao{
+    margin-top: 20px;
+    margin-bottom: 20px;
     padding: 5px;
     color: #1b8e99;
     font-family: Tahoma;
     font-size: 13px;
 }
-.droneA-preço{
-
+.droneA-preço-flex{
+    display: flex;
     padding-top: 15px;
     font-family: Tahoma;
     background-color: #1b8e99;
     color: white;
     height: 96px;
+}
+#margem-fix{
+    margin-top: 20px;
 }
 #droneA-preço1{
     font-size: 30px;
@@ -119,8 +125,14 @@ background-color: #660000;
     font-size: 14px;
 }
 #imagem-carrinho{
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: 50px;
     background-image: url(../img/carrinho.png);
     width: 56px;
     height: 52px;
+}
+#imagem-carrinho:hover{
+    background-color: white;
 }
 /**end of loja virtual styling**/
