@@ -1,7 +1,5 @@
 body{
     width: 980px;
-    height: 400px;
-    background-color: black;
     margin: 0px;
     padding: 0px;
 }
@@ -30,15 +28,13 @@ background-color: #660000;
     height: 352px;
     background-image: url(../img/banner.fw.png);
 }
-
 #topMenuList{
     display: flex;
     justify-content: right;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
     font-size: 12px;
 }
-
 #menuListItemA{
     display: flex;
     justify-content: center;
@@ -53,11 +49,10 @@ background-color: #660000;
 #menuListItemA p{
     text-align: center;
 }
-
 #bottomMenuList{
     display: flex;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
     font-size: 12px;
 }
 #menuListItemB{
@@ -75,3 +70,57 @@ background-color: #660000;
     text-align: center;
 }
 /** end of Top banner styling**/
+/**Loja virtual styling**/
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+}
+.drone-container{
+    display: block;
+    border: #1b8e99;
+    border-style: solid;
+    height: auto;
+    width: 300px;
+   
+}
+#droneA-nome{
+    width: 298px;
+    margin-top: 1px;
+    margin-left: 1px;
+    margin-right: 1px;
+    text-align: center;
+    background-color: #92c9ce;
+    height: 20px;
+}
+#droneA-imagem{
+    background-image: url(../img/DroneA.png);
+    width: 279px;
+    height: 164px;
+}
+#droneA-descricao{
+    padding: 5px;
+    color: #1b8e99;
+    font-family: Tahoma;
+    font-size: 13px;
+}
+.droneA-preço{
+
+    padding-top: 15px;
+    font-family: Tahoma;
+    background-color: #1b8e99;
+    color: white;
+    height: 96px;
+}
+#droneA-preço1{
+    font-size: 30px;
+}
+#droneA-preço2{
+    font-size: 14px;
+}
+#imagem-carrinho{
+    background-image: url(../img/carrinho.png);
+    width: 56px;
+    height: 52px;
+}
+/**end of loja virtual styling**/
