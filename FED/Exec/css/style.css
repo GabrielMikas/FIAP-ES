@@ -321,3 +321,48 @@ background-color: #660000;
     width: 100%;
     background-color: #1b8e99
 }
+
+/**Footer styling**/
+#mini-drone-C{
+    background-image: url(../img/imgDroneC.png);
+    height: 46px;
+    width: 139px;
+    margin-right: 150px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#mini-drone-C-imgs-flex{
+    display: flex;
+    margin-bottom: 9px;
+    
+}
+#footer-bar1{
+    display: flex;
+    font-family: Tahoma;
+    color: white;
+    background-color: #1b8e99;
+    height: 96px;
+}
+#logo-img1{
+    margin-top: 35px;
+    background-image: url(../img/logo.png);
+    height: 28px;
+    width: 123px;
+}
+#logo-img2{
+    position: relative;
+    bottom: 80px;
+    background-image: url(../img/imgProfessor.png);
+    width: 112px;
+    height: 203px;
+}
+#footer-bar2{
+    height: 26px;
+    background-color: #660000;
+    color: white;
+    font-size: 14px;
+    font-family: Tahoma;
+}
+#footer-bar2 span{
+    margin-left: 820px;
+}
