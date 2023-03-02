@@ -73,6 +73,7 @@ background-color: #660000;
     text-align: center;
 }
 /** end of Top banner styling**/
+
 /**Loja virtual styling**/
 .grid-container{
     display: grid;
@@ -236,3 +237,87 @@ background-color: #660000;
     color: #660000;
 }
 /**end of loja virtual styling**/
+
+/**serviço styling**/
+#mini-droneB{
+    margin-top: 7px;
+    background-image: url(../img/imgDroneB.png);
+    height: 77px;
+    width: 125px;
+}
+#servicos-hr-title{
+    margin-top: 20px;
+    width: 100%;
+}
+#servicos-hr-title h1{
+    font-family: Arial;
+    font-size: 18px;
+    color: #1b8e99;
+}
+#top-hr-servicos{
+    background-color: #1b8e99;
+    height: 3px;
+    width: 100%;
+}
+.servico-general{
+    width: 298px;
+    height: 398px;
+}
+#border-A{
+    border: #660000;
+    border-style: solid;
+    border-width: 1px;
+}
+#border-B{
+    border: #1b8e99;
+    border-style: solid;
+    border-width: 1px;
+
+}
+.servico-general p{
+    font-family: Tahoma;
+    font-size: 13px;
+}
+#servico-img-A{
+    background-image: url(../img/ServicosA.png);
+    height: 137px;
+
+}
+#servico-img-B{
+    background-image: url(../img/ServicosB.png);
+    height: 137px;
+}
+#servico-img-C{
+    background-image: url(../img/ServicosC.png);
+    height: 137px;
+}
+#p-A{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: #660000;
+}
+#p-B{
+    color: #1b8e99;
+    margin-right: 10px;
+    margin-left: 10px;   
+}
+.servicos-title{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 40px;
+    font-family: Tahoma;
+    font-size: 17px;
+    font-weight: bold;
+}
+.bottom-thick-thing-A{
+    margin-top: 80px; 
+    height: 10px;
+    width: 100%;
+    background-color: #660000;
+}
+.bottom-thick-thing-B{
+    margin-top: 110px; 
+    height: 10px;
+    width: 100%;
+    background-color: #1b8e99
+}
