@@ -1,9 +1,7 @@
-body{
+
+#container{
     width: 980px;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-right: 0px;
-    margin-left: 50px;
+    margin: auto;
     padding: 0px;
 }
 /**Top banner styling**/
