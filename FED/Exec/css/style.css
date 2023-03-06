@@ -6,16 +6,20 @@
 }
 /**Top banner styling**/
 #topBannerLogo{
-    width: 194px;
+    width: 195px;
     position: relative;
     height: 146px;
-    top: 125px;
+    bottom: 15px;
+    margin-right: 386px;
     left: 8px;
     background-image: url(../img/logo.fw.png);
 }
 #topMenu{
+    margin-top: 30px;
+    display: flex;
     width: 100%;
     height: 45px;
+    justify-content: right;
     background-color: #1b8e99;
     flex-direction: row;
 }
