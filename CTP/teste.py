@@ -1,4 +1,8 @@
-nota1=5.5
-nota2=4.5
-meda=nota1+nota2/2
-print("a média das notas {0} e {1} = {2}".format(nota1, nota2, meda))
+j = 0
+for i in range(0, 5, 1):
+    while j<5:
+        if i<3:
+            j+=3
+        else: 
+            j+=1
+print('j=', j)
