@@ -11,27 +11,27 @@
 <body>
     <div class="container-lg mt-5">
         <div class="card p-5">
-            <form action="" class="was-validated">
+            <form action="">
                 <h1>Criação de Login</h1>
                 <div class="mb-3">
                     <label for="" class="form-label">Usuário:</label>
-                    <input type="text" class="form-control" placeholder="Digite o usuário" required id="userName">
+                    <input type="text" oninput="userValidation()" class="form-control is-invalid" placeholder="Digite o usuário" required id="userName">
                     <div class="valid-feedback">Informação Válida</div>
                     <div class="invalid-feedback">Preencha o dado do usuário</div>
                 </div>
                 <div class="mb-3">
                     <label for="" class="form-label">Senha:</label>
-                    <input type="password" id="pswd" class="form-control" placeholder="Digite a senha" required id="pswd">
+                    <input type="password" oninput="passwordValidation()" id="pswd" class="form-control is-invalid" placeholder="Digite a senha" required>
                     <div class="valid-feedback">Informação Válida</div>
                     <div class="invalid-feedback">Informe a senha</div>
                 </div>
                 <div class="mb-3">
                     <label for="" class="form-label">Confirme a senha:</label>
-                    <input oninput="validation()" id="pswdConfirm" type="password" class="form-control" placeholder="Confirme a senha" required>
+                    <input oninput="validation()" id="pswdConfirm" type="password" class="form-control is-invalid" placeholder="Confirme a senha" required>
                     <div id="validationDiv" class="invalid-feedback">Informe a senha</div>
                 </div>
                 <div class="form-check mb-3">
-                    <input type="checkbox" class="form-check-input" required>
+                    <input type="checkbox" onclick="checkboxValidation()" id="checkValidate" class="form-check-input is-invalid" required>
                     <label for="" class="form-check-label">Eu concordo com os termos</label>
                     <div class="valid-feedback">Informação válida</div>
                     <div class="invalid-feedback">Clique em concordar para seguir</div>
