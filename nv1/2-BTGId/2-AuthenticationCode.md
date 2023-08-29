@@ -1,0 +1,1 @@
+![Auth](../img/authorization.png)
